@@ -1482,3 +1482,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.17-07.56.26:200][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
 [2020.08.17-07.56.26:233][141]LogSavePackage: Moving 'D:/students/s182181/workspace/github/TestGame/TestGame/Saved/ThirdPersonCharacter_Auto1D6FD7F65492A65C1765CCDA6177A5006.tmp' to 'D:/students/s182181/workspace/github/TestGame/TestGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
 [2020.08.17-07.56.26:234][141]LogFileHelpers: Auto-saving content packages took 0.043
+[2020.08.17-07.56.51:014][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.17-07.56.51:033][296]LogSavePackage: Moving 'D:/students/s182181/workspace/github/TestGame/TestGame/Saved/Stage1A8043A9E4B644F3BDA9C0A8F351B0E13.tmp' to 'D:/students/s182181/workspace/github/TestGame/TestGame/Content/ThirdPersonBP/Maps/Stage1.umap'
+[2020.08.17-07.56.51:057][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Stage1_BuiltData" FILE="D:/students/s182181/workspace/github/TestGame/TestGame/Content/ThirdPersonBP/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2020.08.17-07.56.51:071][296]LogSavePackage: Moving 'D:/students/s182181/workspace/github/TestGame/TestGame/Saved/Stage1_BuiltData0BB7FD454E5532D828CD67B1CCB6291D.tmp' to 'D:/students/s182181/workspace/github/TestGame/TestGame/Content/ThirdPersonBP/Maps/Stage1_BuiltData.uasset'
+[2020.08.17-07.56.51:086][296]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.17-07.56.51:086][296]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Stage1.Stage1
+[2020.08.17-07.56.51:086][296]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Stage1_BuiltData.Stage1_BuiltData
